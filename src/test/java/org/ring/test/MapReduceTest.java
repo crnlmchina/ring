@@ -52,4 +52,4 @@ public class MapReduceTest {
 		System.out.println(result);
 	}
 
-} 
+}
